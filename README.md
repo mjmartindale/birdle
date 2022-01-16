@@ -1,5 +1,5 @@
-# birdle
-BIRDLE - it's WORDLE for the birders
+# BIRDLE (work in progress)
+## BIRDLE - it's WORDLE for birders (h/t BYRDLE)
 
 Clone of the BYRDLE clone of WORDLE but with bird-related words and details.
 
